@@ -17,7 +17,7 @@ Tinder like react-native card stack swiper
 ![App preview2](/animation2.gif)
 
 ```javascript
-import CardStack, { Card } from 'react-native-card-stack-swiper';
+import CardStack, { Card } from 'react-native-card-stack-swiper-nico';
 ```
 
 ```javascript
